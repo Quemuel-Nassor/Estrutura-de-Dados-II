@@ -1,0 +1,3 @@
+#ignora arquivos .exe gerados durante a compilação e .ini do google drive
+*.exe
+*.ini

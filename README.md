@@ -9,5 +9,5 @@ Neste segundo módulo da disciplina de estrutura de dados manteve-se a linguagem
 
 # Estruturas utilizadas:
 <p>&emsp; Árvores binárias <p>
-<p>&emsp; tabela HASH <p>
-<p>&emsp; árvores AVL.<p>
+<p>&emsp; Tabela HASH <p>
+<p>&emsp; Árvores AVL.<p>
